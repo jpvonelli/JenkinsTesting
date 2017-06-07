@@ -4,5 +4,5 @@
 def func(word):
     # If the word given is Hello, it will give back World
     if word == 'Hello':
-        return "World"
-    return 'Hello'
+        return "World..."
+    return 'Hello there'
